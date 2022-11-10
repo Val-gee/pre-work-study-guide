@@ -1,2 +1,2 @@
-# pre-work-study-guide
-this study guide will help new students joining rutgers coding bootcamp. it will help answer common questions and address concerns that new students might face durning the bootcamp.
+# prework-study-guide
+A place where a new Rutgers coding bootcamp can track all their notes and access them at anytime.
